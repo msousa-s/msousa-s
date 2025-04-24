@@ -30,13 +30,13 @@
 ### 📬 Entre em contato
 
 <p align="left">
-  <a href="mailto:matheussousa_santos@yahoo.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:matheussousa_santos@yahoo.com" title="Yahoo">
+    <img src="https://img.shields.io/badge/-Yahoo-FF0000?style=flat-square&labelColor=FF0000&logo=yahoo&logoColor=white" alt="yahoo"/>
   </a>
   <a href="https://www.linkedin.com/in/matheus-sousa-santos-63572914a/" title="LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://wa.me/SEUNUMERO" title="WhatsApp" target="_blank">
+  <a href="https://wa.me/11963905055" title="WhatsApp" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>

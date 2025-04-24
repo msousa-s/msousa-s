@@ -10,20 +10,19 @@
 ---
 
 ### 🛠️ Stack Principal
-- **Linguagens:** Java, Kotlin, SQL, JavaScript (básico)
-- **Frameworks:** Spring Boot, JPA, React (básico)
+- **Linguagens:** Java, Kotlin, SQL, JavaScript
+- **Frameworks:** Spring Boot, JPA, React
 - **Ferramentas:** Git, Maven, Docker, Postman, Insomnia
 - **Banco de Dados:** PostgreSQL, SQL Server
 - **BI & ETL:** Power BI, SSIS, TOTVS BI
-- **Infraestrutura:** Active Directory, Office 365, Windows Server
 
 ---
 
 ### 📈 GitHub Stats
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusousa-dev&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=false&hide=prs&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusousa-dev&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msousa-s&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=false&hide=prs&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msousa-s&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
